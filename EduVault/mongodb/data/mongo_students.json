@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "6ac278f419624d13dd5f346f"
+  },
+  "student_id": 1,
+  "name": "Arjun Kumar"
+},
+{
+  "_id": {
+    "$oid": "6ac278f419624d13dd5f3470"
+  },
+  "student_id": 2,
+  "name": "Priya Sharma"
+},
+{
+  "_id": {
+    "$oid": "6ac278f419624d13dd5f3471"
+  },
+  "student_id": 4,
+  "name": "Sneha Reddy"
+}]

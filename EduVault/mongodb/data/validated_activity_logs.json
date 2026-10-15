@@ -1,0 +1,9 @@
+[{
+  "_id": {
+    "$oid": "6ac2793519624d13dd5f3472"
+  },
+  "student_id": 1,
+  "course_code": "CS101",
+  "activity_type": "Video Watched",
+  "completion_percentage": 90
+}]

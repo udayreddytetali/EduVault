@@ -1,0 +1,39 @@
+[{
+  "_id": {
+    "$oid": "6ac2789c19624d13dd5f346b"
+  },
+  "student_id": 1,
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      80.648,
+      16.5062
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6ac2789c19624d13dd5f346c"
+  },
+  "student_id": 2,
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      80.63,
+      16.5
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6ac2789c19624d13dd5f346d"
+  },
+  "student_id": 3,
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      80.64,
+      16.51
+    ]
+  }
+}]

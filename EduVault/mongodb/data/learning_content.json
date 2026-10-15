@@ -1,0 +1,264 @@
+[{
+  "_id": {
+    "$oid": "6ac2770219624d13dd5f345e"
+  },
+  "content_id": "LC001",
+  "course_code": "CS101",
+  "title": "Introduction to DBMS",
+  "content_type": "Video",
+  "topic": "Database Fundamentals",
+  "instructor": "Dr. Ravi Kumar",
+  "duration_minutes": 25,
+  "tags": [
+    "database",
+    "SQL",
+    "DBMS"
+  ],
+  "uploaded_date": {
+    "$date": "2026-09-01T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ac2770219624d13dd5f345f"
+  },
+  "content_id": "LC002",
+  "course_code": "CS101",
+  "title": "SQL Joins Tutorial",
+  "content_type": "PDF",
+  "topic": "SQL Joins",
+  "instructor": "Dr. Ravi Kumar",
+  "duration_minutes": 40,
+  "tags": [
+    "SQL",
+    "joins",
+    "database"
+  ],
+  "uploaded_date": {
+    "$date": "2026-09-03T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ac2770219624d13dd5f3460"
+  },
+  "content_id": "LC003",
+  "course_code": "CS102",
+  "title": "Python Functions",
+  "content_type": "Video",
+  "topic": "Functions",
+  "instructor": "Dr. Anitha Rao",
+  "duration_minutes": 30,
+  "tags": [
+    "Python",
+    "functions"
+  ],
+  "uploaded_date": {
+    "$date": "2026-09-05T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ac2770219624d13dd5f3461"
+  },
+  "content_id": "LC004",
+  "course_code": "DS101",
+  "title": "Introduction to Data Analysis",
+  "content_type": "Video",
+  "topic": "Data Analysis",
+  "instructor": "Dr. Meena Sharma",
+  "duration_minutes": 35,
+  "tags": [
+    "data",
+    "analytics",
+    "Python"
+  ],
+  "uploaded_date": {
+    "$date": "2026-09-07T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ac2770219624d13dd5f3462"
+  },
+  "content_id": "LC005",
+  "course_code": "DS102",
+  "title": "Machine Learning Basics",
+  "content_type": "Video",
+  "topic": "Machine Learning",
+  "instructor": "Dr. Meena Sharma",
+  "duration_minutes": 45,
+  "tags": [
+    "machine learning",
+    "ML",
+    "data science"
+  ],
+  "uploaded_date": {
+    "$date": "2026-09-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ac2777019624d13dd5f3469"
+  },
+  "content_id": "LC007",
+  "course_code": "CS101",
+  "title": "Advanced SQL",
+  "content_type": "Video",
+  "instructor_details": {
+    "name": "Dr. Ravi Kumar",
+    "department": "Computer Science",
+    "email": "ravi@eduvault.com"
+  },
+  "duration_minutes": 50,
+  "tags": [
+    "SQL",
+    "PostgreSQL"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ac278e119624d13dd5f346e"
+  },
+  "content_id": "LC008",
+  "course_code": "CS101",
+  "title": "Database Resources",
+  "resources": [
+    "SQL",
+    "PostgreSQL",
+    "Joins",
+    "Indexes"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6acc947657dc06bc5b6e54b2"
+  },
+  "content_id": "EV-LC-CS101",
+  "course_code": "CS101",
+  "title": "DBMS: Learning Guide",
+  "content_type": "Video",
+  "topic": "DBMS Fundamentals",
+  "instructor": "EduVault Academic Team",
+  "duration_minutes": 23,
+  "tags": [
+    "CS101",
+    "dbms",
+    "learning",
+    "demo"
+  ],
+  "uploaded_date": {
+    "$date": "2026-09-01T00:00:00.000Z"
+  },
+  "generated_by": "eduvault_bulk_v1"
+},
+{
+  "_id": {
+    "$oid": "6acc947657dc06bc5b6e54b3"
+  },
+  "content_id": "EV-LC-CS102",
+  "course_code": "CS102",
+  "title": "Python Programming: Learning Guide",
+  "content_type": "Video",
+  "topic": "Python Programming Fundamentals",
+  "instructor": "EduVault Academic Team",
+  "duration_minutes": 24,
+  "tags": [
+    "CS102",
+    "python programming",
+    "learning",
+    "demo"
+  ],
+  "uploaded_date": {
+    "$date": "2026-09-01T00:00:00.000Z"
+  },
+  "generated_by": "eduvault_bulk_v1"
+},
+{
+  "_id": {
+    "$oid": "6acc947657dc06bc5b6e54b4"
+  },
+  "content_id": "EV-LC-CS103",
+  "course_code": "CS103",
+  "title": "Computer Networks: Learning Guide",
+  "content_type": "Video",
+  "topic": "Computer Networks Fundamentals",
+  "instructor": "EduVault Academic Team",
+  "duration_minutes": 25,
+  "tags": [
+    "CS103",
+    "computer networks",
+    "learning",
+    "demo"
+  ],
+  "uploaded_date": {
+    "$date": "2026-09-01T00:00:00.000Z"
+  },
+  "generated_by": "eduvault_bulk_v1"
+},
+{
+  "_id": {
+    "$oid": "6acc947657dc06bc5b6e54b5"
+  },
+  "content_id": "EV-LC-DS101",
+  "course_code": "DS101",
+  "title": "Data Analytics: Learning Guide",
+  "content_type": "Video",
+  "topic": "Data Analytics Fundamentals",
+  "instructor": "EduVault Academic Team",
+  "duration_minutes": 27,
+  "tags": [
+    "DS101",
+    "data analytics",
+    "learning",
+    "demo"
+  ],
+  "uploaded_date": {
+    "$date": "2026-09-01T00:00:00.000Z"
+  },
+  "generated_by": "eduvault_bulk_v1"
+},
+{
+  "_id": {
+    "$oid": "6acc947657dc06bc5b6e54b6"
+  },
+  "content_id": "EV-LC-DS102",
+  "course_code": "DS102",
+  "title": "Machine Learning: Learning Guide",
+  "content_type": "Video",
+  "topic": "Machine Learning Fundamentals",
+  "instructor": "EduVault Academic Team",
+  "duration_minutes": 28,
+  "tags": [
+    "DS102",
+    "machine learning",
+    "learning",
+    "demo"
+  ],
+  "uploaded_date": {
+    "$date": "2026-09-01T00:00:00.000Z"
+  },
+  "generated_by": "eduvault_bulk_v1"
+},
+{
+  "_id": {
+    "$oid": "6acc947657dc06bc5b6e54b7"
+  },
+  "content_id": "EV-LC-IT101",
+  "course_code": "IT101",
+  "title": "Web Technologies: Learning Guide",
+  "content_type": "Video",
+  "topic": "Web Technologies Fundamentals",
+  "instructor": "EduVault Academic Team",
+  "duration_minutes": 26,
+  "tags": [
+    "IT101",
+    "web technologies",
+    "learning",
+    "demo"
+  ],
+  "uploaded_date": {
+    "$date": "2026-09-01T00:00:00.000Z"
+  },
+  "generated_by": "eduvault_bulk_v1"
+}]

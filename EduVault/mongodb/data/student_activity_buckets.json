@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "6ac2779319624d13dd5f346a"
+  },
+  "student_id": 1,
+  "date": "2026-10-04",
+  "activities": [
+    {
+      "course_code": "CS101",
+      "activity_type": "Video Watched",
+      "content_id": "LC001",
+      "completion": 88
+    },
+    {
+      "course_code": "CS102",
+      "activity_type": "Video Watched",
+      "content_id": "LC003",
+      "completion": 93
+    }
+  ]
+}]
